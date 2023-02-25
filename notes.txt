@@ -1,0 +1,5 @@
+Runaway function -> target attempts escape is called and still runs the runaway function.(not always applicable)
+
+King Tut -> Items and more importantly players Hand needs to be established
+
+
